@@ -6,9 +6,8 @@ public class Event {
 	private boolean reminder;
 	
 //	public void addEvent(){
-//		Hey guys, I figure that Events should
-//		be stored inside of dates. Let me know
-//		if you disagree.
+//		I figure that Events should
+//		be stored inside of dates instead.
 //	}
 	
 	public Event(){
@@ -20,7 +19,8 @@ public class Event {
 	}
 	
 	public void editEvent(){
-		
+//		Change an event's date, start and end time,
+//		name, description, etc etc.
 	}
 	
 //	public void deleteEvent(){
